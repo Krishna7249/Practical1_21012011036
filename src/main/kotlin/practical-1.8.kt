@@ -31,5 +31,4 @@ fun main(){
         intArrayOf(5, 6)
     )
     println(Arrays.deepToString(arr6))
-    println("Please enter Array values:")
 }
