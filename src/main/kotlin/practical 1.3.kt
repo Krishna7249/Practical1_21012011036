@@ -25,4 +25,4 @@ fun main(){
     println("Batch:$string5")
     println("College Name:$string6")
     println("University Name:$string7")
-}
+    }
