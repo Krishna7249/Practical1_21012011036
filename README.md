@@ -15,7 +15,7 @@
 <img src="https://github.com/Krishna7249/Practical1_21012011036/assets/98690735/626ab119-a439-42c3-8428-8f0d9c09861d" width=20% height=20%>
 
 6. By using a user defined function perform all arithmetic operations.
-<img src="https://github.com/Krishna7249/Practical1_21012011036/assets/98690735/59c7a658-f470-4572-97a5-c129b1eaac3b" width=20% height=20%>
+<img src="https://github.com/Krishna7249/Practical1_21012011036/assets/98690735/937ee596-900b-483b-ac5f-b460997c2b45" width=40% heigght=40%>
 
 7. Find the factorial of number by recursion. Explain "tailrec" keyword.
 <img src="https://github.com/Krishna7249/Practical1_21012011036/assets/98690735/ef425800-54f4-4b89-91d7-3d5b147486f4" width=20% height=20%>
